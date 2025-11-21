@@ -42,7 +42,8 @@ inventory-system/
 
 ## 🛠️ Installation & Setup
 # 1️⃣ Clone the repository
-git clone https://github.com/YOUR_USERNAME/inventory-system.git
+git clone https://github.com/Kumuda467/inventory-system.git
+
 cd inventory-system
 
 ## 🖥 Backend Setup (Node.js + Express)
